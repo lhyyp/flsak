@@ -48,7 +48,7 @@ def register():
         return jsonify(errno=RET.DATAERR, errmsg="短信验证码错误")
 
     # 判断用户手机号是否注册
-    user = User(name=mobile, mobile=mobile, password=password)
+    user = User(name=mobile, mobile=mobile, password_hash=password)
     try:
         db.session.add(user)
         db.session.commit()
@@ -69,3 +69,15 @@ def register():
     session["user_id"] = user.id
     # 返回结果
     return jsonify(errno=RET.OK, errmsg="注册成功")
+
+
+@api.route("/session", methods=["get"])
+def setSession():
+    session["name"] = "李白"
+    return "setsession"
+
+
+@api.route("/getsession", methods=["get"])
+def getSession():
+    name = session.get("name")
+    return "setsession %s" % name

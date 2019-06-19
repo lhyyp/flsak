@@ -424,3 +424,121 @@ INFO _internal.py:122  * Restarting with stat
 WARNING _internal.py:122  * Debugger is active!
 INFO _internal.py:122  * Debugger PIN: 603-595-559
 INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:00:16] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:00:28] "GET /api/v1.0/image_code/33 HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\constants.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:01:43] "GET /api/v1.0/sms_code/17603094068?image_code_id=33&image_code=F9AL HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:01:57] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:02:10] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:02:54] "GET /api/v1.0/sms_code/17603094068?image_code_id=33&image_code=F9AL HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:03:04] "GET /api/v1.0/image_code/33 HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:04:50] "GET /api/v1.0/sms_code/17603094068?image_code_id=33&image_code=OZPU HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:04:59] "POST /api/v1.0/users HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:06:47] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:06:55] "GET /api/v1.0/image_code/33 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:07:46] "GET /api/v1.0/sms_code/17603094068?image_code_id=33&image_code=ZHRB HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\config.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:19:17] "GET /api/v1.0/image_code/33 HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:19:59] "GET /api/v1.0/sms_code/176030940681?image_code_id=33&image_code=TQPW HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:20:04] "GET /api/v1.0/sms_code/176030940681?image_code_id=33&image_code=TQPW HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:20:10] "GET /api/v1.0/sms_code/176030940681?image_code_id=33&image_code=TQPW HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:20:30] "GET /api/v1.0/sms_code/176030940681?image_code_id=33&image_code=TQPW HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:20:44] "GET /api/v1.0/sms_code/17603094061?image_code_id=33&image_code=TQPW HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:20:58] "POST /api/v1.0/users HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:31:38] "GET /api/v1.0/session HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:31:38] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:31:38] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:31:38] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:31:39] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:31:39] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:31:39] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR users.py:8 err msg
+WARNING users.py:9 warn msg
+INFO users.py:10 info msg
+DEBUG users.py:11 debug msg
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:32:50] "GET /api/v1.0/ HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:32:50] "GET /api/v1.0/session HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:32:50] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:32:50] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:32:50] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:32:50] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:32:50] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:38:30] "GET /session HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:40:42] "GET /api/v1.0/image_code/33 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:40:53] "GET /api/v1.0/session HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:40:53] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:40:53] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:40:53] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:40:53] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:40:53] "GET /api/v1.0/session?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'D:\\python_demo\\python\\09ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 603-595-559
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

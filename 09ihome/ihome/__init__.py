@@ -39,6 +39,7 @@ def create_app(config_name):
     # 根据配置模式的名字获取配置参数
     config_class = config_map.get(config_name)
     app.config.from_object(config_class)
+
     # 使用app初始化db
     db.init_app(app)
 
